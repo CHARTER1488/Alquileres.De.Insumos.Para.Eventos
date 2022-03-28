@@ -26,14 +26,16 @@ h3{
 p{
     color: rgb(252, 153, 6);
 }
-.fiesta{
-    color: rgb(154, 6, 252);
-    font-size: 200%;
+.Titulo{
+    color: rgb(154, 6, 252);   
   font-weight: bold;
-  letter-spacing: 10px;
-  text-align: center;
+  letter-spacing: 10px; 
   text-shadow: #eb7ee2 6px 6px 6px;
   text-transform: uppercase;
   font-family: cursive;
   text-decoration: underline;
+  text-align: center;
+
 }
+
+
