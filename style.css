@@ -1,5 +1,5 @@
 body{
-    background: url("img/decoracion-eventos-2.jpg");
+    background: url("img/tarjeta\ agatha.jpg");
     background-size: cover;
     background-position: center;
     
@@ -7,9 +7,10 @@ body{
 
 h1{
     text-align: center;
-    color: rgb(116, 45, 5);
-    font-family: cursive;
-    text-decoration: underline;
+    color: rgb(230, 230, 15);
+    font-size: 200%;
+    font-family:'cursive';
+    
 
 }
 h3{
