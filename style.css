@@ -7,7 +7,7 @@ body{
 
 h1{
     text-align: center;
-    color: rgb(230, 230, 15);
+    color: #a59a6c;
     font-size: 200%;
     font-family:'cursive';
     
@@ -38,5 +38,7 @@ p{
   text-align: center;
 
 }
-
+#letras{
+  color: #a59a6c;
+}
 
